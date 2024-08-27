@@ -1,0 +1,12 @@
+let x;
+x = Math.sqrt(4);
+x = Math.abs(-5);
+x = Math.round(4.3);
+x = Math.ceil(6.9);
+x = Math.floor(4.7);
+x = Math.pow(2, 3);
+x = Math.min(3, 6, 9);
+x = Math.max(5, 7, 1);
+x = Math.random();
+x = Math.floor(Math.random() * 100 + 1);
+console.log(x);
